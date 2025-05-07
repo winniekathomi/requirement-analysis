@@ -42,6 +42,12 @@ Examples:
 
 Use Case Diagrams help visualize the interactions between users (actors) and the system. They provide a high-level overview of system functionality, making it easier to understand the scope and interactions.
 
+## Use Case Diagram
+
+![Use Case Diagram](./alx-booking-uc.drawio.png)
+
+You can also click on the image below to open it in a new tab.
+
 [![Use Case Diagram](./alx-booking-uc.drawio.png)](./alx-booking-uc.drawio.png)
 
 ## Acceptance Criteria
