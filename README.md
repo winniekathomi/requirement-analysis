@@ -44,11 +44,11 @@ Use Case Diagrams help visualize the interactions between users (actors) and the
 
 ## Use Case Diagram
 
-![Use Case Diagram](./alx-booking-uc.drawio.png)
+![Use Case Diagram](./alx-booking-uc.png)
 
 You can also click on the image below to open it in a new tab.
 
-[![Use Case Diagram](./alx-booking-uc.drawio.png)](./alx-booking-uc.drawio.png)
+[![Use Case Diagram](./alx-booking-uc.png)](./alx-booking-uc.png)
 
 ## Acceptance Criteria
 
